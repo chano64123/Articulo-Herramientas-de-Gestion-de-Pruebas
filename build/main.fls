@@ -1,7 +1,7 @@
-PWD c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01
+PWD c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01
 INPUT C:\Users\Luis\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\main.tex
-OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.log
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\main.tex
+OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
@@ -120,9 +120,9 @@ INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecount
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.aux
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.aux
-OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.aux
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.aux
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.aux
+OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -135,14 +135,14 @@ INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.pdf
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.pdf
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+OUTPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
@@ -218,9 +218,9 @@ INPUT .\img\ga3.png
 INPUT .\img\ga3.png
 INPUT .\img\ga3.png
 INPUT .\img\ga3.png
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.aux
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
-INPUT c:\Users\Luis\Desktop\Ciclo 7\Base de Datos II\Unidad 3\Trabajo Gruapl\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.aux
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
+INPUT c:\Users\Luis\Desktop\Ciclo 7\Calidad y Pruebas de Software\Unidad 3\Trabajo encargado N° 01\build\main.out
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
 INPUT C:\Users\Luis\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
